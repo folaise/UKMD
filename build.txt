@@ -1,0 +1,4 @@
+displayName = ULTRAKILL MUST DIE
+author = Folaise
+version = 0.23
+homepage = https://forums.terraria.org/index.php?threads/ultrakill-must-die-ukmd.111435/

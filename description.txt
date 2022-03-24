@@ -1,0 +1,22 @@
+MANKIND IS DEAD.
+BLOOD IS FUEL.
+HELL IS FULL.
+
+ULTRAKILL MUST DIE (UKMD) is an in-developement mod that aims to add weapons, tools and items from Arsi "Hakita" Patala's ULTRAKILL.
+
+Current items:
+Slab Piercer
+
+Planned items:
+Feedbacker
+Knuckleblaster
+Electric Railcannon
+
+Update log
+
+v0.22/0.23: Bugfixes.
+v0.21: Added icon.
+v0.2: Added the Slab Piercer and its primary fire, which is currently a 300 damage heat ray projectile.
+Crafted from 10 Chlorophyte Bars and 50 Blood Vials (which are only obtainable with any cheat sheet-like mod).
+
+v0.1: Created.
